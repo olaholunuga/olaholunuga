@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm olaoluwa olunuga</h1>
-<h3 align="center">A passionate Backend developer from Nigeria</h3>
+<h3 align="center">A passionate Backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olaholunuga&label=Profile%20views&color=0e75b6&style=flat" alt="olaholunuga" /> </p>
 
